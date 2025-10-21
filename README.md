@@ -40,11 +40,20 @@ I'm a **CS Junior** who is passionate about **algorithms** and **problem-solving
 
 ---
 
+
 ### 📊 My GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kaannarslan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaannarslan&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+---
+
+### 🚀 My Github Recent Activity & Streak
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaannarslan&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -57,13 +66,6 @@ I'm a **CS Junior** who is passionate about **algorithms** and **problem-solving
   </a>
 </p>
 
----
-
-### 🚀 My Recent Activity & Streak
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaannarslan&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
